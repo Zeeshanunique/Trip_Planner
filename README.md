@@ -53,6 +53,3 @@ Contributions to enhance the functionality or add new features are welcome. Feel
 
 This project is licensed under the [MIT License](LICENSE).
 
----
-
-Feel free to adjust the README as needed, including adding any additional sections or information pertinent to your project.
