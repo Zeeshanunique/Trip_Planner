@@ -1,8 +1,6 @@
-Certainly! Below is a README file for the provided code:
 
----
 
-# Trip Planner Crew
+# Trip Planner CrewAi
 
 ## Overview
 
